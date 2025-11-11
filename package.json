@@ -19,5 +19,7 @@
     "ai-dev"
   ],
   "author": "nxhung2304",
+  "homepage": "https://github.com/nxhung2304/cc-workflow",
+  "bugs": "https://github.com/nxhung2304/cc-workflow/issues",
   "license": "MIT"
 }
