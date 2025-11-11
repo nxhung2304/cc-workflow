@@ -1,8 +1,7 @@
 {
   "name": "cc-workflow",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "AI-assisted workflow for coding with Claude Code",
-  "main": "bin/index.js",
   "bin": {
     "cc-workflow": "./bin/index.js"
   },
@@ -14,7 +13,11 @@
     "fs-extra": "^11.2.0",
     "path": "^0.12.7"
   },
-  "keywords": ["claude-code", "workflow", "ai-dev"],
-  "author": "Your Name",
+  "keywords": [
+    "claude-code",
+    "workflow",
+    "ai-dev"
+  ],
+  "author": "nxhung2304",
   "license": "MIT"
 }
