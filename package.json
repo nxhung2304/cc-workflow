@@ -1,6 +1,6 @@
 {
   "name": "cc-workflow",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "AI-assisted workflow for coding with Claude Code",
   "bin": {
     "cc-workflow": "./bin/index.js"
